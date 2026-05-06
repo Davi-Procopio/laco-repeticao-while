@@ -18,8 +18,7 @@ Este repositório contém exercícios desenvolvidos em **JavaScript** com foco n
 ## 🛠️ Tecnologias Utilizadas
 - JavaScript  
 - Visual Studio Code  
-- Git e GitHub  
-- Flowgorithm  
+- Git e GitHub
 
 ---
 
