@@ -7,7 +7,7 @@ while (entrada !== "ok" && nota >= 0 && nota <= 10) {
     soma += nota;
     quantidade++;
 
-    entrada = prompt('Nota ' + quantidade + ' (números negativos ou "ok" encerram o programa):');
+    entrada = prompt('Nota ' + (quantidade + 1) + ' (números negativos ou "ok" encerram o programa):');
     nota = Number(entrada);
 }
 
